@@ -3,10 +3,10 @@ package org.topdev.git.test;
 public class Test {
 
 	/**
-	 * @param args
+	 * @param  argsv
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] argsv) {
+		System.out.println("test");
 
 	}
 
